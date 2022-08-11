@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_restore"
+        android:enabled="true"
+        android:icon="@drawable/restore"
+        android:title="@string/title_restore"/>
+
+    <item
+        android:id="@+id/action_scan"
+        android:enabled="true"
+        android:icon="@drawable/scan"
+        android:title="@string/title_scan"/>
+
+    <item
+        android:id="@+id/action_leaf"
+        android:enabled="true"
+        android:icon="@drawable/leaf"
+        android:title="@string/title_leaf"/>
+</menu>
